@@ -1,0 +1,48 @@
+Home:
+Most played venue
+Top team right now
+Top player right now
+Top goalie right now
+Country with most teams in top 10
+Perfomance of a player during his lifetime - select team, then player - dynamic
+Performance of a team during its lifetime
+
+Schedules:
+Get schedule by date
+Get schedule by team
+Get schedule by venue
+Get schedule by season
+
+Get schedule of all the games of X team that takes place in Y venue 
+Get schedule of all the games of X team that they loses
+Get schedule of all the games of X team that they lose as a home team
+Get schedule of all the games of X team that they lose as a away team
+
+Ranking:
+Top 10 teams in X season
+Top 10 teams who won games as home team
+Top 10 teams who won games as away team
+Top 5 teams with more than 5 players of the same country
+Top 10 teams with the best shots/goal ratios
+Top 10 players in Y country
+Top 10 players who have won more than 5 games in home games
+Top 10 players with more home goals than away goals
+Top 10 players with more away goals than home goals
+Top 10 Players who have played in season XXX and in venue YYY
+
+Scores:
+get scores by team
+get scores by venue
+get scores by season
+Games where home team have had more giveaways than takeaways
+Games after zz date where the away team has won with more than YY points
+Games where there have been more goals from the away team than the home team
+Games where home team have had more giveaways than takeaways
+
+Teams:
+Teams which have players in X position from X country
+Teams which have players in X position from either X or Y country
+Teams that have won with more poweplay goals than normal goals
+Players who have played in their home and won more than 5 games
+Players who have are from X country and has an age between a1 to a2
+Players who belong to X country and have primary position P1 or P2
